@@ -1,1 +1,0 @@
-# soltixov.github.io
