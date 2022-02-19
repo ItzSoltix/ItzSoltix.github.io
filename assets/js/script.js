@@ -140,7 +140,7 @@ $(document).on('click', function(e) {
 // type new text
 function newText() {
     // insert a new element into the dom
-    $('#contentinner').append(`<div class="instruction"> <span class="user">milansky@127.0.0.1</span>: <span class="path">~</span>$ <span id="command${currentlyOn}" class="command"></span> <span class="blinking-cursor" id="blinkingcursor">_</span> </div>`);
+    $('#contentinner').append(`<div class="instruction"> <span class="user">soltixov@localhost</span>: <span class="path">~</span>$ <span id="command${currentlyOn}" class="command"></span> <span class="blinking-cursor" id="blinkingcursor">_</span> </div>`);
     // initialize a new instance of typeit
     new TypeIt(`#command${currentlyOn}`, {
         strings: messages[currentlyOn],
