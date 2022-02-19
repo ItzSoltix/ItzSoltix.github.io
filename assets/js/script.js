@@ -32,8 +32,7 @@ let messages = [
     '<a target="_blank" href="https://redlix.me">Redlix Network</a> - Minecraft Minigames Server. Soon',
     '<a target="_blank" href="https://hookdiscord.space">hookdiscord.space</a> - best discord webhook spammer.',
     'ты можешь найти мой гитхаб <a target="_blank" href="https://github.com/ItzSoltix">здесь</a>.',
-    'также можешь написать мне в дискорд @ Soltix#6726.',
-    'Сайт взял у него - https://github.com/milanskyyy'
+    'также можешь написать мне в дискорд @ Soltix#6726.'
 ];
 
 // define songs
