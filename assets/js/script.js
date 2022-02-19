@@ -34,7 +34,6 @@ let messages = [
     'ты можешь найти мой гитхаб <a target="_blank" href="https://github.com/ItzSoltix">здесь</a>.',
     'также можешь написать мне в дискорд @ Soltix#6726.',
     'Сайт взял у него - https://github.com/milanskyyy'
-    'Если ты против, то отпиши мне в дс, бро! Я удалю сайт:)'
 ];
 
 // define songs
