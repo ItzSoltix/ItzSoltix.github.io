@@ -25,15 +25,16 @@ let songsPlayed = [];
 
 // define messages to display
 let messages = [
-    'привет, спасибо за переход!',
-    'я milansky aka PbIBa.',
-    'я активно продвигаюсь в Java, C++.',
-    'мои проекты:',
-    '<a target="_blank" href="https://wardix.net">wardix.net</a> - minecraft pvp server includes skywars, practice and more.',
-    '<a target="_blank" href="https://appassionare.me">appassionare.me</a> - best optifine capes spoof.',
-    'ты можешь найти мой гитхаб <a target="_blank" href="https://github.com/milanskyyy">здесь</a>.',
-    'также можешь написать мне в дискорд @ PbIBa#0001.',
-    'или же на mail: me@milansky.me.'
+    'Всем зрителям привет!',
+    'Мой ник под которым я работаю - ItzSoltix:D.',
+    'Я активно работаю на языке Java, создаю свой проект.',
+    'Проекты, которые я делал:',
+    '<a target="_blank" href="https://redlix.me">Redlix Network</a> - Minecraft Minigames Server. Soon',
+    '<a target="_blank" href="https://hookdiscord.space">hookdiscord.space</a> - best discord webhook spammer.',
+    'ты можешь найти мой гитхаб <a target="_blank" href="https://github.com/ItzSoltix">здесь</a>.',
+    'также можешь написать мне в дискорд @ Soltix#6726.',
+    'Сайт взял у него - https://github.com/milanskyyy'
+    'Если ты против, то отпиши мне в дс, бро! Я удалю сайт:)'
 ];
 
 // define songs
