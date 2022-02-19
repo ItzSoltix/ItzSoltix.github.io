@@ -90,7 +90,7 @@ $(document).ready(function() {
 // load the main page and execute required functions
 function startIt() {
     // set the document title
-    document.title = 'milansky.me | home';
+    document.title = 'soltixov.space | home';
 
     // get a random song
     let song = songs.random();
